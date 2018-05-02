@@ -4,6 +4,8 @@
 具体使用请结合达达开放平台提供的开发文档使用
 exampleFunction.php里写了个示例请求方法，可以直接使用<br>
 [达达配送开放平台地址](https://newopen.imdada.cn/#/development/file/index)
+###2018-04-24
+达达的demo文件已更新，[下载地址](https://newopen.imdada.cn/static/Demo.zip)
 # dadaSDK.php
 ```php
 class dadaSDK{
